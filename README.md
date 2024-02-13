@@ -1,2 +1,2 @@
 # Currency Converter
- All Currency Converter WebApp built with JavaScript 
+ All Currency Converter WebApp built with JavaScript.
